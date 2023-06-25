@@ -112,7 +112,7 @@ app.delete('/orders/:id',async(req,res)=>{
 }
 run().catch(console.dir);
 app.get('/',(req,res)=>{
-    res.send('simple node server running sdkf')
+    res.send('simple node server running sdkf vercel')
     });
 
 
